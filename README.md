@@ -1,12 +1,41 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🎓 Udemy Clone
 
-Currently, two official plugins are available:
+**Project Description:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The **Udemy Clone** is a fully responsive **frontend-only web application** developed using **React**, **HTML**, and **Tailwind CSS**. This project replicates the user interface of the popular e-learning platform **Udemy**, focusing on layout design, course presentation, and interactive UI using only React’s core features — without any routing or backend integration.
 
-## Expanding the ESLint configuration
+### Live - [ https://udemy-react-rtbl.vercel.app/ ]
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠 Tech Stack:
+
+* **HTML** – Semantic page structure
+* **Tailwind CSS** – Utility-first CSS framework for styling
+* **React.js** – For building dynamic, reusable UI components
+
+
+
+### ✨ Key Features:
+
+* **Landing Page** – Displays featured courses and promotional sections
+* **Course Cards** – Each course is shown with an image, title, instructor, price, and rating
+* **Category Section** – Highlights different course categories
+* **Component-Based Design** – Header, Footer, CourseCard, and other UI parts are built as reusable components
+* **Responsive Layout** – Fully mobile-friendly design using Tailwind CSS
+* **Static UI Only** – No navigation between pages or routing functionality
+
+
+
+### 🎯 Learning Outcomes:
+
+* Gained hands-on experience with **React components, props, and state**
+* Learned to use **Tailwind CSS** for fast and efficient styling
+* Improved your ability to **replicate real-world UI designs**
+* Practiced building a clean, maintainable **component-based frontend**
+* Strengthened understanding of **responsive design and layout techniques**
+
+### Contact
+LinkedIn - [ https://www.linkedin.com/in/muthulakshmis1]
+
+Email  - [ muthulakshmisaravanan395@gmail.com ]
+
